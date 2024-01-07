@@ -104,7 +104,7 @@ As you can see, when `troubleshoot` was not added as a synonym, we got a low con
 |Exclamation mark|!|
 |Asterisk|\*|
 |Underscore|\_|
-|Ampersand|@|
+|Ampersand|&|
 |Hash|#|
 
 
